@@ -1,6 +1,6 @@
 {
   "name": "pyrohint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package used for automating actions related to Pokétwo",
   "main": "index.js",
   "scripts": {
